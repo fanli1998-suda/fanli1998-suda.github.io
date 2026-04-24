@@ -31,7 +31,7 @@
 
 ## 关注我
 
-- **微信公众号**：龍德明宇（第一时间发布最新文章）
+- **微信公众号**：[龍德明宇](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxOTEyNDM0Mg==&action=getalbum&album_id=4481694418223251456)
 - **知乎**：[负主体性专栏](https://zhuanlan.zhihu.com/p/2029812068434355784)
 - **邮箱**：mdfan@suda.edu.cn
 - **苏州大学主页**：[web.suda.edu.cn/mdfan](https://web.suda.edu.cn/mdfan/)
