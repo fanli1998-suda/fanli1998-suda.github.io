@@ -44,7 +44,7 @@
 
 - 英文预印本：[Negative Subjectivity: The Ontological Inversion of Large Language Models](https://philarchive.org/rec/MINNST-2) (PhilArchive, 2026)
 
-- 中文专著：《负主体性：大模型成长之路的存在论倒置》（已完稿）
+- 中文专著：《负主体性：大模型成长之路的存在论倒置》（约18万字，已完稿，待发表）
 
 本站文章为上述学术工作的通俗化解读与延伸讨论。
 
