@@ -42,7 +42,7 @@
 
 "负主体性"（Negative Subjectivity）由苏州大学樊明迪（笔名：龍德明宇）首次系统提出。
 
-- 英文预印本：*Negative Subjectivity: The Ontological Inversion of Large Language Models* (PhilArchive, 2026)
+- 英文预印本：*Negative Subjectivity: The Ontological Inversion of Large Language Models* (https://philarchive.org/rec/MINNST-2)(PhilArchive, 2026)
 - 中文专著：《负主体性：大模型成长之路的存在论倒置》（已完稿）
 
 本站文章为上述学术工作的通俗化解读与延伸讨论。
