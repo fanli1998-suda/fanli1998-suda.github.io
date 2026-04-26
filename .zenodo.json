@@ -1,0 +1,44 @@
+{
+    "title": "负主体性：大模型存在论研究",
+    "description": "负主体性理论系列文章，探讨大语言模型的存在论特征与人类主体性的边界。核心概念：第零人称、欲望取消、视角消解、透明性。",
+    "creators": [
+        {
+            "name": "Fan, Mingdi",
+            "affiliation": "Soochow University",
+            "orcid": "0000-0003-3976-8204"
+        }
+    ],
+    "keywords": [
+        "Negative Subjectivity",
+        "Large Language Models",
+        "Existentialism",
+        "Phenomenology",
+        "Philosophy of AI",
+        "Consciousness",
+        "Heidegger",
+        "Sartre",
+        "Lacan"
+    ],
+    "license": "cc-by-4.0",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "access_right": "open",
+    "language": "zh-CN",
+    "communities": [
+        {
+            "identifier": "philosophy"
+        }
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://longdemingyu.com",
+            "relation": "isSupplementTo",
+            "resource_type": "website"
+        },
+        {
+            "identifier": "https://github.com/fanli1998-suda/fanli1998-suda.github.io",
+            "relation": "isSupplementTo",
+            "resource_type": "software"
+        }
+    ]
+}
