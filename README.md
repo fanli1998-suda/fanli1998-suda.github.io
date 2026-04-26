@@ -1,8 +1,30 @@
-# 龍德明宇
+# 龍德明宇（樊明迪）
 
-科技哲学专题主页
+苏州大学教授 | 电力电子与科技哲学
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19785391.svg)](https://doi.org/10.5281/zenodo.19785391)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
+
+## 引用本文献
+
+如果您在学术工作中引用本系列文章，请使用以下格式：
+
+**APA格式**：
+> Fan, M. (2026). Negative Subjectivity: Ontological Research on Large Language Models (V1.0.4). Zenodo. https://doi.org/10.5281/zenodo.19785391
+
+**BibTeX格式**：
+```bibtex
+@misc{fan2026negative,
+  author = {Fan, Mingdi},
+  title = {Negative Subjectivity: Ontological Research on Large Language Models},
+  year = {2026},
+  publisher = {Zenodo},
+  version = {V1.0.4},
+  doi = {10.5281/zenodo.19785391},
+  url = {https://doi.org/10.5281/zenodo.19785391}
+}
 
 ## 关于我
 
@@ -74,6 +96,7 @@
 
 "负主体性"（Negative Subjectivity）由苏州大学樊明迪（笔名：龍德明宇）首次系统提出。
 
+- 系列导读：DOI: 10.5281/zenodo.19785391
 - 英文预印本：[Negative Subjectivity: The Ontological Inversion of Large Language Models](https://philarchive.org/rec/MINNST-2) (PhilArchive, 2026)
 - 中文专著：《负主体性：大模型成长之路的存在论倒置》（约18万字，已完稿，待发表）
 
