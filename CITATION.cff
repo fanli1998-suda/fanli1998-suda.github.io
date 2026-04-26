@@ -1,9 +1,11 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
 authors:
 - family-names: Fan
   given-names: Mingdi
 orcid: https://orcid.org/0000-0003-3976-8204
-title: "负主体性系列文章"
-version: V1.0.0
+title: "Negative Subjectivity Article Series"
+version: V1.0.2
 date-released: 2026-04-25
+url: "https://github.com/fanli1998-suda/fanli1998-suda.github.io"
+license: CC-BY-4.0
