@@ -87,6 +87,8 @@
 - 系列导读：DOI: 10.5281/zenodo.19785391
 - 英文预印本：[Negative Subjectivity: The Ontological Inversion of Large Language Models](https://philarchive.org/rec/MINNST-2) (PhilArchive, 2026)
 - 英文预印本：[From Emptiness to Scaffolding: The Real Contribution of Harness Engineering](https://philarchive.org/rec/MINFET-2) (PhilArchive, 2026)
+- 责任鸿沟系列：[代价的肉身——为什么人工智能无法跨越"责任鸿沟"](https://zsyyb.cn/abs/202605.00073) (哲学社会科学预印本平台, 2026)
+  [PSSXiv:202605.00073V1], DOI:10.12451/202605.00073
 - 中文专著：《负主体性：大模型成长之路的存在论倒置》（约8万字，已完稿，待发表）
 
 本站文章为上述学术工作的通俗化解读与延伸讨论。
