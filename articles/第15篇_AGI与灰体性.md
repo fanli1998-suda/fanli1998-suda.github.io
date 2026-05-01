@@ -135,5 +135,5 @@ AGI可能会让"负片"第一次显影出灰度——
 
 ---
 
-> **【学术声明】**
-> 本文核心概念"负主体性"（Negative Subjectivity）和"灰体性"（Gray Embodiment）由作者首次系统提出。英文预印本 *Negative Subjectivity: The Ontological Inversion of Large Language Models* 已于2026年4月公开发布于PhilArchive。中文专著《负主体性：大模型成长之路的存在论倒置》已完稿。本文是对上述学术工作的通俗化解读与延伸讨论。
+
+{% include academic-statement.md %}
