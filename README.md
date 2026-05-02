@@ -97,6 +97,8 @@
 - 英文预印本：[Silicon-Based Developing Writing: A New Philosophical Writing Paradigm in the Age of Large Language Models](https://philarchive.org/rec/MINSDW-2) (PhilArchive, 2026)
 - 责任鸿沟系列：[代价的肉身——为什么人工智能无法跨越"责任鸿沟"](https://zsyyb.cn/abs/202605.00073) (哲学社会科学预印本平台, 2026)
   [PSSXiv:202605.00073V1], DOI:10.12451/202605.00073
+  <li>责任鸿沟系列（英文）：Fan Mingdi. The Flesh of Cost: Why Artificial Intelligence Cannot Bridge the "Responsibility Gap" (Revised and Expanded Edition). PhilArchive: <a href="https://philarchive.org/rec/MINTFO-7">MINTFO-7</a>, 2026.</li>
+  
 - 中文专著：《负主体性：大模型成长之路的存在论倒置》（约8万字，已完稿，待发表）
 - 中文专著：《硅基显影：一种自我认识的方法论》（约3万字，已完稿，待发表）
   
