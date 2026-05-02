@@ -11,7 +11,7 @@
 如果您在学术工作中引用本系列文章，请使用以下格式：
 
 **APA格式**：
-> Fan, M. (2026). Negative Subjectivity: Ontological Research on Large Language Models (V1.0.4). Zenodo. https://doi.org/10.5281/zenodo.19785390
+> Fan, M. (2026). Negative Subjectivity: Ontological Research on Large Language Models. Zenodo. https://doi.org/10.5281/zenodo.19785390
 
 
 ## 关于我
