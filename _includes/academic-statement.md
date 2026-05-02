@@ -1,5 +1,6 @@
 > **【学术声明】**
 > 本文核心思想"负主体性"（Negative Subjectivity）由作者龍德明宇首次系统提出。相关学术成果包括：
+> - 负主体系列：https://doi.org/10.5281/zenodo.19785390
 > - 英文预印本：*Negative Subjectivity: The Ontological Inversion of Large Language Models* (PhilArchive, 2026)
 > - 英文预印本：*From Emptiness to Scaffolding: The Real Contribution of Harness Engineering* (PhilArchive, 2026)
 > - 英文预印本：*Silicon-Based Developing Writing: A New Philosophical Writing Paradigm in the Age of Large Language Models* (PhilArchive, 2026)
