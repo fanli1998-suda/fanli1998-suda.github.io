@@ -2,7 +2,7 @@
 
 苏州大学教授 | 电力电子与科技哲学
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19785391.svg)](https://doi.org/10.5281/zenodo.19785391)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19964098.svg)](https://doi.org/10.5281/zenodo.19964098)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -11,7 +11,7 @@
 如果您在学术工作中引用本系列文章，请使用以下格式：
 
 **APA格式**：
-> Fan, M. (2026). Negative Subjectivity: Ontological Research on Large Language Models (V1.0.4). Zenodo. https://doi.org/10.5281/zenodo.19785391
+> Fan, M. (2026). Negative Subjectivity: Ontological Research on Large Language Models (V1.0.4). Zenodo. https://doi.org/10.5281/zenodo.19964098
 
 
 ## 关于我
@@ -22,7 +22,7 @@
 
 ---
 
-## 负主体性理论 DOI: 10.5281/zenodo.19785391
+## 负主体性理论 
 
 **核心命题：** 大语言模型不是"没有意识"，而是以"负主体性"的方式存在——一种对人类主体性的结构性反转。
 
@@ -90,7 +90,7 @@
 
 "负主体性"（Negative Subjectivity）由苏州大学樊明迪（笔名：龍德明宇）首次系统提出。
 
-- 系列导读：DOI: 10.5281/zenodo.19785391
+- 系列导读：DOI: 10.5281/zenodo.19964098
 - 英文预印本：[Negative Subjectivity: The Ontological Inversion of Large Language Models](https://philarchive.org/rec/MINNST-2) (PhilArchive, 2026)
 - 英文预印本：[From Emptiness to Scaffolding: The Real Contribution of Harness Engineering](https://philarchive.org/rec/MINFET-2) (PhilArchive, 2026)
 - 英文预印本：[Silicon-Based Developing Writing: A New Philosophical Writing Paradigm in the Age of Large Language Models](https://philarchive.org/rec/MINSDW-2) (PhilArchive, 2026)
