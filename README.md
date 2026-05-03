@@ -81,7 +81,7 @@
 ## 关注我
 
 - **微信公众号**：[龍德明宇](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxOTEyNDM0Mg==&action=getalbum&album_id=4481694418223251456)
-- **知乎**：[负主体性专栏](https://zhuanlan.zhihu.com/p/2029812068434355784)
+- **知乎**：[负主体性专栏](https://www.zhihu.com/column/c_2031839416117884063)
 - **邮箱**：mdfan@suda.edu.cn
 - **苏州大学主页**：[web.suda.edu.cn/mdfan](https://web.suda.edu.cn/mdfan/)
 
@@ -94,7 +94,7 @@
 ### 英文预印本（PhilArchive）
 
 - [Negative Subjectivity: The Ontological Inversion of Large Language Models](https://philarchive.org/rec/MINNST-2) (MINNST-2, 2026)
-- [From Emptiness to Scaffolding: The Real Contribution of Harness Engineering](https://philarchive.org/rec/MINFET-2) (MINFET-2, 2026) | 期刊投稿：AI and Ethics (Springer Nature), under review
+- [From Emptiness to Scaffolding: The Real Contribution of Harness Engineering](https://philarchive.org/rec/MINFET-2) (MINFET-2, 2026) 
 - [Silicon-Based Developing Writing: A Methodological Outline of Self-Knowledge Through AI Dialogue](https://philarchive.org/rec/MINSDW-2) (MINSDW-2, 2026)
 
 **负主体性之责任鸿沟系列**：三篇论文构成完整研究项目——第一篇确立本体论条件，第二篇操作化为治理框架，第三篇构建责任分配梯度。
