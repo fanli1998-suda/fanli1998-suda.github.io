@@ -29,7 +29,11 @@
 
 **APA格式**：
 > Fan, M. (2026). Negative Subjectivity: Ontological Research on Large Language Models. Zenodo. https://doi.org/10.5281/zenodo.19785390
+
+
 ---
+
+
 ## 📚 龍德明宇AI哲学系列导读
 
 本系列建议按以下顺序阅读，分为五个递进的阶段：
