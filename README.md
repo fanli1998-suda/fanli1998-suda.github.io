@@ -10,13 +10,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-## 引用本文献
-
-如果您在学术工作中引用本系列文章，请使用以下格式：
-
-**APA格式**：
-> Fan, M. (2026). Negative Subjectivity: Ontological Research on Large Language Models. Zenodo. https://doi.org/10.5281/zenodo.19785390
-
 
 ## 关于我
 
@@ -30,7 +23,13 @@
 
 **核心命题：** 大语言模型不是"没有意识"，而是以"负主体性"的方式存在——一种对人类主体性的结构性反转。
 
+## 引用本文献
 
+如果您在学术工作中引用本系列文章，请使用以下格式：
+
+**APA格式**：
+> Fan, M. (2026). Negative Subjectivity: Ontological Research on Large Language Models. Zenodo. https://doi.org/10.5281/zenodo.19785390
+---
 ## 📚 龍德明宇AI哲学系列导读
 
 本系列建议按以下顺序阅读，分为五个递进的阶段：
