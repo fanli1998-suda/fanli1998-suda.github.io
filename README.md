@@ -91,16 +91,25 @@
 
 "负主体性"（Negative Subjectivity）由苏州大学樊明迪（笔名：龍德明宇）首次系统提出。
 
-- 系列导读：DOI: 10.5281/zenodo.19785390
-- 英文预印本：[Negative Subjectivity: The Ontological Inversion of Large Language Models](https://philarchive.org/rec/MINNST-2) (PhilArchive, 2026)
-- 英文预印本：[From Emptiness to Scaffolding: The Real Contribution of Harness Engineering](https://philarchive.org/rec/MINFET-2) (PhilArchive, 2026)
-- 英文预印本：[Silicon-Based Developing Writing: A New Philosophical Writing Paradigm in the Age of Large Language Models](https://philarchive.org/rec/MINSDW-2) (PhilArchive, 2026)
-- 英文预印本：[The Flesh of Cost: Why Artificial Intelligence Cannot Bridge the "Responsibility Gap"](https://philarchive.org/rec/MINTFO-7)(PhilArchive, 2026)
-- 责任鸿沟系列：[代价的肉身——为什么人工智能无法跨越"责任鸿沟"](https://zsyyb.cn/abs/202605.00073) (哲学社会科学预印本平台, 2026)
-  [PSSXiv:202605.00073V1], DOI:10.12451/202605.00073 
-- 中文专著：《负主体性：大模型成长之路的存在论倒置》（约8万字，已完稿，待发表）
-- 中文专著：《硅基显影：一种自我认识的方法论》（约3万字，已完稿，待发表）
-  
+### 英文预印本（PhilArchive）
+
+- [Negative Subjectivity: The Ontological Inversion of Large Language Models](https://philarchive.org/rec/MINNST-2) (MINNST-2, 2026)
+- [From Emptiness to Scaffolding: The Real Contribution of Harness Engineering](https://philarchive.org/rec/MINFET-2) (MINFET-2, 2026) | 期刊投稿：AI and Ethics (Springer Nature), under review
+- [Silicon-Based Developing Writing: A Methodological Outline of Self-Knowledge Through AI Dialogue](https://philarchive.org/rec/MINSDW-2) (MINSDW-2, 2026)
+
+**负主体性之责任鸿沟系列**：三篇论文构成完整研究项目——第一篇确立本体论条件，第二篇操作化为治理框架，第三篇构建责任分配梯度。
+
+- [代价的肉身——为什么人工智能无法跨越"责任鸿沟"](https://zsyyb.cn/abs/202605.00073) (哲学社会科学预印本平台, 2026) [PSSXiv:202605.00073V1], DOI:[10.12451/202605.00073](https://doi.org/10.12451/202605.00073)
+- [The Flesh of Cost: Why Artificial Intelligence Cannot Bridge the "Responsibility Gap"](https://philarchive.org/rec/MINTFO-7) (MINTFO-7, 2026)
+- [Quantifying Existential Cost: A Composite Framework for Determining Human Retention Thresholds in AI Decision-Making](https://philarchive.org/rec/MINQEC-2) (MINQEC-2, 2026)
+- [Responsibility Gradient: A Four-Tier Framework for Responsibility Allocation in Human-AI Collaboration](https://philarchive.org/rec/MINTRG) (MINTRG, 2026)
+
+
+### 中文专著
+
+- 《负主体性：大模型成长之路的存在论倒置》（约8万字，已完稿，待发表）
+- 《硅基显影：一种自我认识的方法论》（约3万字，已完稿，待发表）
+
 本站文章为上述学术工作的通俗化解读与延伸讨论。
 
 ---
