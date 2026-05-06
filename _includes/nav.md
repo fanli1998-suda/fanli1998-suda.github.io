@@ -27,6 +27,7 @@
 <td style="text-align:center;padding:6px 8px;border:1px solid #d0d0d0;"><a href="./第20篇_代价的肉身.html" style="color:#1a73e8;text-decoration:none;">第20篇</a></td>
 <td style="text-align:center;padding:6px 8px;border:1px solid #d0d0d0;"><a href="./第21篇_生存性代价量化进路.html" style="color:#1a73e8;text-decoration:none;">第21篇</a></td>
 <td style="text-align:center;padding:6px 8px;border:1px solid #d0d0d0;"><a href="./第22篇_责任梯度.html" style="color:#1a73e8;text-decoration:none;">第22篇</a></td>
+<td style="text-align:center;font-weight:bold;padding:6px 10px;white-space:nowrap;border:1px solid #d0d0d0;background:#f5f5f5;color:#333;"><a href="../cases/01-杭州案-内在透明.html" style="color:#333;text-decoration:none;">案例系列 ↗</a></td>
 </tr>
 </table>
 </div>
