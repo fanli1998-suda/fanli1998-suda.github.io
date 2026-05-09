@@ -4,7 +4,7 @@
   <iframe src="https://ghbtns.com/github-btn.html?user=fanli1998-suda&repo=fanli1998-suda.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub" style="vertical-align: middle;"></iframe>
 </a>
 
-苏州大学教授 | 电力电子与科技哲学
+苏州大学教授 | 电气+AI+哲学
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19785390.svg)](https://doi.org/10.5281/zenodo.19785390)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
