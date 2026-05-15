@@ -1,9 +1,5 @@
 # 龍德明宇（https://longdemingyu.com/）
 
-<a href="https://github.com/fanli1998-suda/fanli1998-suda.github.io" target="_blank" style="text-decoration: none;">
-  <iframe src="https://ghbtns.com/github-btn.html?user=fanli1998-suda&repo=fanli1998-suda.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub" style="vertical-align: middle;"></iframe>
-</a>
-
 苏州大学教授 | 电气+AI+哲学
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19785390.svg)](https://doi.org/10.5281/zenodo.19785390)
