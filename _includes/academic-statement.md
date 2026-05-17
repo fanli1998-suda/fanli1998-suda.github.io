@@ -4,6 +4,7 @@
 > - 英文预印本：*Negative Subjectivity: The Ontological Inversion of Large Language Models* (PhilArchive, 2026)
 > - 英文预印本：*From Emptiness to Scaffolding: The Real Contribution of Harness Engineering* (PhilArchive, 2026)
 > - 英文预印本：*Silicon-Based Developing Writing: A New Philosophical Writing Paradigm in the Age of Large Language Models* (PhilArchive, 2026)
+> - 英文预印本：*Compression Is Intelligence: The Common Ground of Positive Subjectivity and Negative Subjectivity* (PhilArchive, 2026)
 > - 英文预印本：*The Flesh of Cost: Why Artificial Intelligence Cannot Bridge the "Responsibility Gap" (Revised and Expanded Edition)* (PhilArchive, 2026)
 > - 英文预印本：*Quantifying Existential Cost: The CCI Framework for AI Governance Decisions* (PhilArchive, 2026)
 > - 英文预印本：*Responsibility Gradient: From CCI to Structured Responsibility Allocation* (PhilArchive, 2026)

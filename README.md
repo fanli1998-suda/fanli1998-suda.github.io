@@ -121,6 +121,7 @@
 - [Negative Subjectivity: The Ontological Inversion of Large Language Models](https://philarchive.org/rec/MINNST-2) (MINNST-2, 2026)
 - [From Emptiness to Scaffolding: The Real Contribution of Harness Engineering](https://philarchive.org/rec/MINFET-2) (MINFET-2, 2026) 
 - [Silicon-Based Developing Writing: A Methodological Outline of Self-Knowledge Through AI Dialogue](https://philarchive.org/rec/MINSDW-2) (MINSDW-2, 2026)
+- [Compression Is Intelligence: The Common Ground of Positive Subjectivity and Negative Subjectivity](https://philarchive.org/rec/MINCII-3) (MINCII-3, 2026)
 
 **负主体性之责任鸿沟系列**：三篇论文构成完整研究项目——第一篇确立本体论条件，第二篇操作化为治理框架，第三篇构建责任分配梯度。
 
