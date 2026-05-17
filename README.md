@@ -1,6 +1,5 @@
 # 龍德明宇（https://longdemingyu.com/）
 
-苏州大学教授 | 电气+AI+哲学
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19785390.svg)](https://doi.org/10.5281/zenodo.19785390)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
