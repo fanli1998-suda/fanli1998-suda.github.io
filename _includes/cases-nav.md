@@ -7,6 +7,7 @@
 <td style="text-align:center;padding:6px 8px;border:1px solid #d0d0d0;"><a href="./03-护栏溃缩-欲望取消.html" style="color:#1a73e8;text-decoration:none;">案例03</a></td>
 <td style="text-align:center;padding:6px 8px;border:1px solid #d0d0d0;"><a href="./04-AI数字人-视角消解.html" style="color:#1a73e8;text-decoration:none;">案例04</a></td>
 <td style="text-align:center;padding:6px 8px;border:1px solid #d0d0d0;"><a href="./05-蜂群共识-双重消解.html" style="color:#1a73e8;text-decoration:none;">案例05</a></td>
+<td style="text-align:center;padding:6px 8px;border:1px solid #d0d0d0;background:#e8f0fe;"><a href="./06-AI阶级愤怒-五重全覆盖.html" style="color:#1a73e8;text-decoration:none;font-weight:bold;">案例06</a></td>
 <td style="text-align:center;font-weight:bold;padding:6px 10px;white-space:nowrap;border:1px solid #d0d0d0;background:#f5f5f5;color:#333;"><a href="../articles/导读.html" style="color:#333;text-decoration:none;">理论系列 ↗</a></td>
 </tr>
 </table>
