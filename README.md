@@ -112,6 +112,7 @@
 | 如何缓解AI带来的焦虑 | 解释我跨界搞AI负主体性的原因 | [阅读全文](./ai-anxiety.html) |
 | 资本为什么选择LLM？ | 负主体性与资本运行逻辑的结构同构 | [阅读全文](./why-capital-choose-llm.html) |
 | Token降价，是否会演变成一场价格战？ | 负主体性视角下的LLM商业宿命分析 | [阅读全文](./token-price-war.html) |
+| 十七岁被大厂预定：放弃高考拿百万年薪，这是天选之子还是提前收割？ | 资本负化逻辑下的教育与人才选择困境 | [阅读全文](./seventeen-year-old-hired-by-big-tech.html) |
 
 ---
 
