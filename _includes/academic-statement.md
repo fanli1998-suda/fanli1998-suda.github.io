@@ -18,6 +18,7 @@
 > - *The Flesh of Cost: Why Artificial Intelligence Cannot Bridge the "Responsibility Gap" (Revised and Expanded Edition)* (PhilArchive, 2026)
 > - *Quantifying Existential Cost: The CCI Framework for AI Governance Decisions* (PhilArchive, 2026)
 > - *Responsibility Gradient: From CCI to Structured Responsibility Allocation* (PhilArchive, 2026)
+> - *Why Capital Chooses LLMs: Negative Subjectivity as the Ontological Foundation of LLM Hegemony* (PhilArchive, 2026)
 > - 《代价的肉身——为什么人工智能无法跨越"责任鸿沟"》（哲学社会科学预印本平台, 2026）DOI: 10.12451/202605.00073
 > 
 > 以上学术成果均由作者龍德明宇完成。各篇在其所属层级内做出独立贡献，基础理论为下游展开提供统一根基，但不替代各方向的独立论证。
