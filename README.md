@@ -36,7 +36,7 @@ permalink: /
 
 | 标题 | 简介 | 链接 |
 |:---|:---|:---|
-| 压缩即智能：正主体性与负主体性的共同根基 | 正负主体性的统一基础——兼论智能的本质 | [阅读全文](./compression-is-intelligence.html) |
+| 压缩即智能：正主体性与负主体性的共同根基 | 正负主体性的统一基础——兼论智能的本质 | [阅读全文](./essays/compression-is-intelligence.html) |
 
 ---
 
@@ -115,13 +115,13 @@ permalink: /
 
 | 标题 | 简介 | 链接 |
 |:---|:---|:---|
-| 第四次哥白尼革命与新轴心时代 | AI时代的五重去中心化与行星思维 | [阅读全文](./copernican-revolution.html) |
-| AI没有的东西，正在从你身上消失 | 五重否定下的现代人困境 | [阅读全文](./negative-film.html) |
-| 致长者的存在哲学邀请 | 退休后的存在哲学 | [阅读全文](./aging.html) |
-| 如何缓解AI带来的焦虑 | 解释我跨界搞AI负主体性的原因 | [阅读全文](./ai-anxiety.html) |
-| 资本为什么选择LLM？ | 负主体性与资本运行逻辑的结构同构 | [阅读全文](./why-capital-choose-llm.html) |
-| Token降价，是否会演变成一场价格战？ | 负主体性视角下的LLM商业宿命分析 | [阅读全文](./token-price-war.html) |
-| 十七岁被大厂预定：放弃高考拿百万年薪，这是天选之子还是提前收割？ | 资本负化逻辑下的教育与人才选择困境 | [阅读全文](./seventeen-year-old-hired-by-big-tech.html) |
+| 第四次哥白尼革命与新轴心时代 | AI时代的五重去中心化与行星思维 | [阅读全文](./essays/copernican-revolution.html) |
+| AI没有的东西，正在从你身上消失 | 五重否定下的现代人困境 | [阅读全文](./essays/negative-film.html) |
+| 致长者的存在哲学邀请 | 退休后的存在哲学 | [阅读全文](./essays/aging.html) |
+| 如何缓解AI带来的焦虑 | 解释我跨界搞AI负主体性的原因 | [阅读全文](./essays/ai-anxiety.html) |
+| 资本为什么选择LLM？ | 负主体性与资本运行逻辑的结构同构 | [阅读全文](./essays/why-capital-choose-llm.html) |
+| Token降价，是否会演变成一场价格战？ | 负主体性视角下的LLM商业宿命分析 | [阅读全文](./essays/token-price-war.html) |
+| 十七岁被大厂预定：放弃高考拿百万年薪，这是天选之子还是提前收割？ | 资本负化逻辑下的教育与人才选择困境 | [阅读全文](./essays/seventeen-year-old-hired-by-big-tech.html) |
 
 ---
 
