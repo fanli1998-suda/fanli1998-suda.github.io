@@ -1,4 +1,9 @@
 ---
+layout: default
+title: "AGI会有'自我'吗？"
+description: "灰体性是正主体性与负主体性之间的第三种存在论位置——不完全有主体性，也不完全无主体性。"
+keywords: "灰体性, AGI, 自我, 负主体性, 第三种存在论, 人工智能"
+date: 2026-05-06
 ---
 
 {% include nav.md %}

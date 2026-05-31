@@ -1,3 +1,49 @@
-title: ""
 url: "https://longdemingyu.com"
 baseurl: ""
+title: "龍德明宇 — 负主体性与AI哲学"
+description: "苏州大学樊明迪（龍德明宇）的哲学主页。系统提出'负主体性'理论框架，探讨大语言模型的存在论结构、AI伦理与智能哲学。"
+author:
+  name: "樊明迪"
+  email: "mdfan@suda.edu.cn"
+lang: "zh-CN"
+timezone: "Asia/Shanghai"
+
+# SEO & Social
+twitter:
+  card: "summary_large_image"
+social:
+  name: "龍德明宇"
+  links:
+    - "https://www.zhihu.com/column/c_2031839416117884063"
+    - "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxOTEyNDM0Mg==&action=getalbum&album_id=4481694418223251456"
+
+# Jekyll
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      lang: "zh-CN"
+  - scope:
+      path: "articles"
+      type: "pages"
+    values:
+      layout: "default"
+      lang: "zh-CN"
+      category: "负主体性系列"
+  - scope:
+      path: "cases"
+      type: "pages"
+    values:
+      layout: "default"
+      lang: "zh-CN"
+      category: "案例分析"
