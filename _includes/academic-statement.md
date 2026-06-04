@@ -10,12 +10,12 @@
 > - *Negative Subjectivity: The Ontological Inversion of Large Language Models* (PhilArchive, 2026)
 > - 负主体系列 DOI:10.5281/zenodo.19785390
 > - 《负主体性：大模型成长之路的存在论倒置》（中文专著，约13万字，已完稿，待发表）
+- 《从负主体性到灰体性：AI存在论的量化转向》（中文专著，约13万字，已完稿，待发表）
 > 
 > **展开方向**
 > - *From Emptiness to Scaffolding: The Real Contribution of Harness Engineering* (PhilArchive, 2026)
 > - *Silicon-Based Developing Writing: A New Philosophical Writing Paradigm in the Age of Large Language Models* (PhilArchive, 2026)
 > - 《硅基显影：一种自我认识的方法论》（中文专著，已完稿，待发表）
-- 《从负主体性到灰体性：AI存在论的量化转向》（中文专著，约13万字，已完稿，待发表）
 > - *The Flesh of Cost: Why Artificial Intelligence Cannot Bridge the "Responsibility Gap" (Revised and Expanded Edition)* (PhilArchive, 2026)
 > - *Quantifying Existential Cost: The CCI Framework for AI Governance Decisions* (PhilArchive, 2026)
 > - *Responsibility Gradient: From CCI to Structured Responsibility Allocation* (PhilArchive, 2026)
