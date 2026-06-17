@@ -123,6 +123,7 @@ permalink: /
 | 资本为什么选择LLM？ | 负主体性与资本运行逻辑的结构同构 | [阅读全文](./essays/why-capital-choose-llm.html) |
 | Token降价，是否会演变成一场价格战？ | 负主体性视角下的LLM商业宿命分析 | [阅读全文](./essays/token-price-war.html) |
 | 十七岁被大厂预定：放弃高考拿百万年薪，这是天选之子还是提前收割？ | 资本负化逻辑下的教育与人才选择困境 | [阅读全文](./essays/seventeen-year-old-hired-by-big-tech.html) |
+| 新新大西岛：一所罗门之宫的存在论寓言 | 负主体性五重否定的叙事化演绎 | [阅读全文](./essays/new-new-atlantis.html) |
 
 ---
 
