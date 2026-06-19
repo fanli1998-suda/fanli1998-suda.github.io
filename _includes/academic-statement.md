@@ -5,6 +5,7 @@
 > 
 > **基础理论**
 > - *Compression Is Intelligence: The Common Ground of Positive Subjectivity and Negative Subjectivity* (PhilArchive, 2026)
+> - *Compression Strategy Spectrum: A Quantitative Framework for Ontological Positions* (PhilArchive, 2026)
 > 
 > **核心理论**
 > - *Negative Subjectivity: The Ontological Inversion of Large Language Models* (PhilArchive, 2026)
@@ -20,7 +21,7 @@
 > - *Quantifying Existential Cost: The CCI Framework for AI Governance Decisions* (PhilArchive, 2026)
 > - *Responsibility Gradient: From CCI to Structured Responsibility Allocation* (PhilArchive, 2026)
 > - *Why Capital Chooses LLMs: Negative Subjectivity as the Ontological Foundation of LLM Hegemony* (PhilArchive, 2026)
-- *Compression Strategy Spectrum: A Quantitative Framework for Ontological Positions* (PhilArchive, 2026)
 > - 《代价的肉身——为什么人工智能无法跨越"责任鸿沟"》（哲学社会科学预印本平台, 2026）DOI: 10.12451/202605.00073
+> - *World Models: When AI Moves from "Seeing" to "Doing" — A Causal Inquiry from the Perspective of Negative Subjectivity* (PhilArchive, 2026)
 > 
 > 以上学术成果均由作者龍德明宇完成。各篇在其所属层级内做出独立贡献，基础理论为下游展开提供统一根基，但不替代各方向的独立论证。

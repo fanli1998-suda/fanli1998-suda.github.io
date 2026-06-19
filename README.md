@@ -148,6 +148,7 @@ permalink: /
 - [Compression Is Intelligence: The Common Ground of Positive Subjectivity and Negative Subjectivity](https://philarchive.org/rec/MINCII-3) (MINCII-3, 2026)
 - [Why Capital Chooses LLMs: Negative Subjectivity as the Ontological Foundation of LLM Hegemony](https://philarchive.org/rec/MINWCC) (MINWCC, 2026)
 - [Compression Strategy Spectrum: A Quantitative Framework for Ontological Positions](https://philarchive.org/rec/MINTCS) (MINTCS, 2026)
+- [World Models: When AI Moves from "Seeing" to "Doing" — A Causal Inquiry from the Perspective of Negative Subjectivity](https://philarchive.org/rec/MINWMW) (MINWMW, 2026)
 
 **负主体性之责任鸿沟系列**：三篇论文构成完整研究项目——第一篇确立本体论条件，第二篇操作化为治理框架，第三篇构建责任分配梯度。
 
